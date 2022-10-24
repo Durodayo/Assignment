@@ -1,0 +1,69 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-image: url("./image1.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: cover;
+    background-color:#6abadeba;  
+    font-family: 'Arial';  
+}  
+.login, .reg{  
+        width: 382px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 80px;  
+        background: rgb(14, 161, 131, 0.6);  
+        border-radius: 15px ;  
+          
+}  
+h2{  
+    text-align: center;  
+    color: #277582;  
+    padding: 20px;  
+}  
+label{  
+    color: #08ffd1;  
+    font-size: 17px;  
+}  
+#email, #fname, #lname, #num, #dob{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#col{
+    width: 100px;
+}
+#gender{
+    padding-bottom: 5px;
+    height: 30px;
+    width: 200px;
+}
+#Pass{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+      
+}  
+#log{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: rgb(229, 229, 243); 
+    background-color: #277582; 
+  
+  
+}  
+span{  
+    color: white;  
+    font-size: 17px; 
+    
+}  
